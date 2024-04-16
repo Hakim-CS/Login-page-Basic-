@@ -25,7 +25,7 @@ You can view the demo of the login page [here](#) (replace "#" with the actual l
 
 ## Installation
 
-Since this project is implemented using only 'index.html' and styles.css, there is no installation required. Simply download or clone the repository to your local machine, and you're ready to go!
+Since this project is implemented using only `index.html` and `styles.css`, there is no installation required. Simply download or clone the repository to your local machine, and you're ready to go!
 
 ## Usage
 
